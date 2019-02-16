@@ -2,6 +2,7 @@
 ## Overview
 
 This is a memory game. The goal is to click on characters only 1 time.  If you fail and click a character more than once your score will reset!  Have fun and good luck!
+In order to play clone my repo and run - npm start
 
 ## Deployed on Github Pages
 
